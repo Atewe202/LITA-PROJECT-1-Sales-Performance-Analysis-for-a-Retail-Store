@@ -19,5 +19,7 @@ dashboard that highlights these findings.
 ### Data Analysis
 
 ### Visulization
+![LITA_PROJECT_1 (EXCEL Q2)](https://github.com/user-attachments/assets/65dbe239-e6d4-4608-8a65-823f4b6efd4b)
+
 
 
