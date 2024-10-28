@@ -62,7 +62,8 @@ The data was anlysed using
 -  Transform data and
 -  Then check data quality, Data profile and Data distribution
 
-###  Calculated Metrics
+### Data Analysis 
+### Calculated Metrics
  Use Excel formulas to calculate metrics such as;
  - Average sales per product : calculating the Average sales per product using the formula =AVERAGEIF(C2:C9922,"Gloves",H2:H9922)
  - Total revenue by region: calculating the revenue per region using the formular =SUMIF(D2:D9922,"East",H2:H9922)
