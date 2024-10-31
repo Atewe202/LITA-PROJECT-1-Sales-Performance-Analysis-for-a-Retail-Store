@@ -62,6 +62,12 @@ The data was anlysed using
 -  Transform data and
 -  Then check data quality, Data profile and Data distribution
 
+### Tools and Methods Used 
+- Data Analysis: the data were analysed using the microsoft excel, pivot table to summarize the large data, organising them into tablees and use of slicers to filter.
+- SQL queries was also used for further analysis ans
+- Power BI for visualization of the collection
+
+
 ### Data Analysis 
 ### Calculated Metrics
  Use Excel formulas to calculate metrics such as;
@@ -71,7 +77,10 @@ The data was anlysed using
 find the highest-selling product by total sales value. SELECT Product, SUM(SALES) AS TOTALSALES FROM [dbo].[LITA_SALES_DATA]
 GROUP BY PRODUCT
 ORDER BY TOTALSALES DESC
-  - calculate total revenue per product. 
+  - calculate total revenue per product. using pivot table. this was done by grouping the product by the revenue generated. Shoes top the sales by generating 613,380 which has an overall percentage of 29% of the total sales, this was followed by shirt with a total revenue of 485,600 and percentage of total revenue of 23%, however the least revenue came from stocks 185,789 with a percentage of 9% of the total revenue.
+  - Insight inference
+    the high sellling products should be optimized, increase production and expand product line.
+    - For the least selling product the is need to do a svrvey to find out why the poor sales. Inaddition the company can rebrand it or review the unitprice.. the last option could be to discontinue product if all other strategies fail
 SELECT Product, SUM(SALES) AS TOTALREVENUE FROM [dbo].[LITA_SALES_DATA]
 GROUP BY PRODUCT
   - calculate monthly sales totals for the current year. 
@@ -102,6 +111,11 @@ Average sales per product : calculating the Average sales per product using the 
 	Socks		 122 
 ![image](https://github.com/user-attachments/assets/676a7794-b731-444f-af03-4ae630a1b235)
 
+
+
+Shirt has highest average sales(327), followed by Shoes (309) and the least is Stocks -122
+
+
 Total revenue by region: calculating the revenue per region using the formular =SUMIF(D2:D9922,"East",H2:H9922)
 			
 	Total Revenue by Region		
@@ -110,6 +124,13 @@ Total revenue by region: calculating the revenue per region using the formular =
 	South		 927,820 
 	West		 300,345 
 ![image](https://github.com/user-attachments/assets/aa5aa178-e1ff-4ced-80a2-0c76ba0adad1)
+
+
+
+- The highest revenue came from the South with a total of 927,820 with a percentage of 44% this was followed by the East with a revenue of 485,925 with a percentage of 23% and the least revenue came from the West with a total sales of 300,345 and percentage of 14%.
+
+   Inghest inference
+  
 
 ### Data Analysis
 
