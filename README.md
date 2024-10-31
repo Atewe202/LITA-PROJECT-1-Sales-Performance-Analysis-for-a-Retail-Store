@@ -111,6 +111,10 @@ Average sales per product : calculating the Average sales per product using the 
 	Socks		 122 
 ![image](https://github.com/user-attachments/assets/676a7794-b731-444f-af03-4ae630a1b235)
 
+![Uploading Screenshot 2024-10-31 121115.png…]()
+
+
+![Screenshot 2024-10-31 120511](https://github.com/user-attachments/assets/350f4dee-374e-4eb6-bd7b-ba7e9c0f2d18)
 
 
 Shirt has highest average sales(327), followed by Shoes (309) and the least is Stocks -122
