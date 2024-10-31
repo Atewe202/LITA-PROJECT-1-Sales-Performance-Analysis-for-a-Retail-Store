@@ -103,12 +103,7 @@ HAVING MAX(OrderDate) < DATEADD(QUARTER, -1, GETDATE());
 
 ### Explaratory Data Analysis
 Average sales per product : calculating the Average sales per product using the formula =AVERAGEIF(C2:C9922,"Gloves",H2:H9922) 	Average Sales by Product		
-	Gloves		 200 
-	Hat		 159 
-	Jacket		 140 
-	Shirt		 327 
-	Shoes		 309 
-	Socks		 122 
+
 ![image](https://github.com/user-attachments/assets/676a7794-b731-444f-af03-4ae630a1b235)
 
 ![Uploading Screenshot 2024-10-31 121115.png…]()
