@@ -124,15 +124,51 @@ Total revenue by region: calculating the revenue per region using the formular =
 -  Inaddition other market conditions that may be affecting sales should be considered.
 -  The company could also look at the highest selling product in that region and concentrate more effort in reaching more customers.
 
-Total revenue by Month: An anlysis of the total revenue per month shows that February has the highest sales
+Total revenue by Month: 
+Insights
+- An anlysis of the total revenue per month shows that February has the highest sales
 - The highest reneue was recorded in the month of february  with a percentage of 26% , followed by July with percentage of 13%, January with a percentage of 12% and June. with percentage of 12%
 - The least sales was recorded in Sepember and December with a percentage of 2% each .
 - This seasonal trends could be due to fluctuations in customers demand and the prevailing economic situation
+  Inference
+- However there is need to optimize marketing strategies to capitalize peak seasons
+- There is also need to develop targeted promotions for loe level months
+- Adjust resource allocation to match demend fluctuations.
   
 ![Screenshot 2024-10-31 132618](https://github.com/user-attachments/assets/3c1610cf-2497-4b5e-b970-777ab5c1e913)
 
 ![Screenshot 2024-10-31 133529](https://github.com/user-attachments/assets/c6358249-73ab-4e6f-a322-95afc960ef10)
 
+ Monthly Sales by Current Year:
+ Insight
+-  This analysis shows no consistent trend in the revenue generated in the current year per month. 
+- This seasonal trends could be due to fluctuations in customers demand and the prevailing economic situation
+
+  Inference
+-  There is need to optimize marketing strategies to capitalize peak seasons
+- There is also need to develop targeted promotions for loe level months
+- Adjust resource allocation to match demend fluctuations.
+  
+![Screenshot 2024-10-31 143954](https://github.com/user-attachments/assets/c5733fad-143e-493f-8dee-6149b5010b75)
+
+Top 10 Customers by Total Purchase
+Insight
+- This analysis shows the top ten customers purcahsed products worth 4,235. 
+- There is a need to also see how to increase the purchasing power of other customers by x-raying their products of choice
+- This could be done by conducting a customer satisfaction survey to identify areas of improvement
+
+  Inference
+  - Top customer can be assigned a dedicated paypoint which will also encourage some customer to want to increase their purchasing level
+  - Offer regular programs or premium services which serves as incentives to them
+  - After sales relationship can be encouraged where them receive messages during their birthdays, festive periods
+     
+
+![Screenshot 2024-10-31 145224](https://github.com/user-attachments/assets/8c0bbe7e-b985-4c2a-92a2-d7c730fe619b)
+
+### Percentage contributed by different Regions
+
+
+![Uploading Screenshot 2024-10-31 154546.png…]()
 
 
 
