@@ -173,20 +173,10 @@ Insight
 
 ![Screenshot 2024-10-31 154546](https://github.com/user-attachments/assets/154f4f00-4742-4f0e-bc16-532e95b973eb)
 
-![Uploading Screenshot 2024-10-31 154546.png…]()
-
-![Uploading Screenshot 2024-10-31 154546.png…]()
-
 
 ### Visulization
 
 ![Screenshot 2024-11-01 125157](https://github.com/user-attachments/assets/18289fc1-3610-43db-9205-55aa2b52c90f)
-
-![Screenshot 2024-11-01 111929](https://github.com/user-attachments/assets/956f74b8-5b53-4997-bcce-48374219ea1f)
-
-![Screenshot 2024-11-01 130513](https://github.com/user-attachments/assets/0da5b4a0-a1a4-427e-8b93-a746638b9c95)
-
-![Screenshot 2024-11-01 135943](https://github.com/user-attachments/assets/44c6c250-7b23-40c0-80e3-6a2734d71a0b)
 
 ![Screenshot 2024-11-01 151744](https://github.com/user-attachments/assets/c3891816-8860-4520-9643-0577a67f9eef)
 
@@ -214,4 +204,5 @@ This dashboard shows insights of total revenue of 2,101,090  generated from 33,7
    7. Customer feedback is key to identify area of improvement
 
   ### Conclusion
- The company should look into 
+ The south region should be strenthened to optimize performance. They should expand product line of high performing products -shoes and shirts.
+ Stocks should be rebranded, provided incentives and also expand the market in the region where there is high demend in the South and the West
