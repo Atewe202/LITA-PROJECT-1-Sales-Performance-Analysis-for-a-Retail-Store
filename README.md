@@ -150,8 +150,11 @@ ORDER BY TOTALPURCHASE DESC
 ```
 
 ### Visulization
+Excel Dashboard Report
 
 ![Screenshot 2024-11-01 125157](https://github.com/user-attachments/assets/18289fc1-3610-43db-9205-55aa2b52c90f)
+
+Power BI  Dashboard
 
 ![Screenshot 2024-11-01 151744](https://github.com/user-attachments/assets/c3891816-8860-4520-9643-0577a67f9eef)
 
